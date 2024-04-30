@@ -1,4 +1,5 @@
 // Esta es la clase Alumno de mi archivo
+//V1.0
 class Alumno {
     constructor() {
         this.nombre = '';
