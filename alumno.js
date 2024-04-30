@@ -1,3 +1,4 @@
+//Esta es la clase alumno
 class Alumno {
     constructor() {
         this.nombre = '';
