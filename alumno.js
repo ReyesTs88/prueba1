@@ -1,4 +1,4 @@
-//Esta es la clase alumno
+// Esta es la clase Alumno de mi archivo
 class Alumno {
     constructor() {
         this.nombre = '';
@@ -24,6 +24,6 @@ class Alumno {
 
 // Ejemplo de uso
 const alumno = new Alumno();
-alumno.setNombre('Juan');
-alumno.setEdad(20);
-console.log(alumno.toString()); // Salida: Nombre: Juan, Apellido: , Edad: 20
+alumno.setNombre('Pepe');
+alumno.setEdad(30);
+console.log(alumno.toString()); // Salida: Nombre: Pepe, Apellido: , Edad: 30
