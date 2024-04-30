@@ -27,3 +27,4 @@ const alumno = new Alumno();
 alumno.setNombre('Pepe');
 alumno.setEdad(30);
 console.log(alumno.toString()); // Salida: Nombre: Pepe, Apellido: , Edad: 30
+//fin del código class alumno
